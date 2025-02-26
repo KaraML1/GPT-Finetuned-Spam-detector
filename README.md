@@ -25,4 +25,4 @@
     To use OpenAI’s API, you need an API key. This is a variable for your convenience.
 
 ## Running the Email Classification Script
-  The main script, GPTEmailTester.py, takes an email as input (subject + body of the email) and classifies it as Spam or Ham using OpenAI's ChatGPT 4o model. Change the variables located at the bottom of the script and run the program.
+  GPTEmailTester takes an email as input (subject + body of the email) and classifies it as Spam or Ham using OpenAI's ChatGPT 4o model. Change the variables located at the bottom of the script and run the program. ModelSpamTester uses a private OpenAI model instead.
