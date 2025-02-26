@@ -7,7 +7,6 @@
     First, download the project files by cloning the repository:
     
     git clone https://github.com/KaraML1/GPT-Finetuned-Spam-detector.git
-    cd GPT-Finetuned-Spam-Detector
 
 2. Install Dependencies
 
